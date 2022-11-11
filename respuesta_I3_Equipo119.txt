@@ -7,7 +7,7 @@ Si, se logro ver.
 
 c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
 Tuve que pararme en la rama main con el comando git checkout main
-luego hice el merge con el comando git merge gamma
+luego hice el merge con el comando git merge gamma.
 
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
