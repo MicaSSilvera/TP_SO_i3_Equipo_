@@ -24,4 +24,11 @@ git add.
 git push origin Silvera
 
 Responde ALFA:
-G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+G-¿Que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+Los comando que hice fueron:
+cat "Informacion requerida" >> Beta.txt
+cat ifcongif >> Beta.txt
+git add. 
+...
+git push origin Silvera
